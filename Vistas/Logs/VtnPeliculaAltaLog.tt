@@ -1,0 +1,13 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ output extension=".txt" #>
+
+14/09/2020
+07:23
+
+Corrección de errores ortográficos
+Cambio en el alineamiento de los text block, pasaron 
+de estar completamente centrados en cada celda a estar alineados a la derecha
+
+Cambio en la imagen de fondo
+Cambio en el borde de los botones, en lugar del borde por defecto, el Aceptar es LightGreen 
+y el Cancelar no tiene bordes. 

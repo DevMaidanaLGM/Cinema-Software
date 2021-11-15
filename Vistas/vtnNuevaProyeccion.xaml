@@ -1,0 +1,43 @@
+﻿<Window x:Class="Vistas.vtnNuevaProyeccion"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Nueva Proyeccion" Height="515" Width="415" Loaded="Window_Loaded">
+    <Window.Resources>
+        <ResourceDictionary Source="MisEstilos.xaml"></ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width="172" />
+            <ColumnDefinition Width="25" />
+        </Grid.ColumnDefinitions>
+        <!-- Cabecera-->
+        <TextBlock Grid.ColumnSpan="2" Height="23" HorizontalAlignment="Center" Margin="83,22,58,22" Name="textBlock1" Text="NUEVA PROYECCION" VerticalAlignment="Center" FontSize="22" FontFamily="Rockwell" Foreground="White" />
+        <!-- Labels-->
+        <TextBlock Grid.Row="1" Height="23" HorizontalAlignment="Center" Margin="0" Name="textBlock2" Text="Codigo" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="2" Height="23" HorizontalAlignment="Center" Margin="0" Name="textBlock3" Text="Fecha y Hora" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="3" Height="23" HorizontalAlignment="Center" Margin="30,21,26,23" Name="textBlock5" Text="Numero de sala" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="4" Height="23" HorizontalAlignment="Center" Margin="12,26,14,18" Name="textBlock6" Text="Codigo de pelicula" VerticalAlignment="Center"/>
+        <!-- TextBoxs-->
+        <TextBox Grid.Column="1" Grid.Row="1" Height="23" HorizontalAlignment="Center" Margin="30,22,13,22" Name="txtCodigo" VerticalAlignment="Center" Width="129" Text="" IsEnabled="False" />
+        <TextBox Grid.Column="1" Grid.Row="2" Height="23" HorizontalAlignment="Center" Margin="30,22,13,22" Name="txtFecha" VerticalAlignment="Center" Width="129" />
+        <!--Buttons-->
+        <Button Content="Agregar" Grid.Row="5" Height="40" HorizontalAlignment="Center" Margin="45,19,26,9" Name="btnAceptar" VerticalAlignment="Center" Width="115" BorderBrush="LightGreen" Click="btnAceptar_Click" />
+        <Button Content="Cancelar" Grid.Column="1" Grid.Row="5" Height="40" HorizontalAlignment="Center" Margin="35,19,22,9" Name="btnCancelar" VerticalAlignment="Center" Width="115" Click="btnCancelar_Click" />
+        <ComboBox Grid.Column="1" Grid.Row="3" Height="23" HorizontalAlignment="Left" Margin="30,21,0,0" Name="cmbNroSala" VerticalAlignment="Top" Width="128" SelectionChanged="cmbNroSala_SelectionChanged" />
+        <ComboBox Grid.Column="1" Grid.Row="4" Height="23" HorizontalAlignment="Left" Margin="30,26,0,0" Name="cmbCodPeli" VerticalAlignment="Top" Width="130" SelectionChanged="cmbCodPeli_SelectionChanged" />
+        <!--Image Background-->
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/abmbackground%20-%20alta.png"></ImageBrush>
+        </Grid.Background>
+    </Grid>
+</Window>

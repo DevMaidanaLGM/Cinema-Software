@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Clasificaciones>
+  <clase descripcion="ATP"></clase>
+  <clase descripcion="ATP c/r"></clase>
+  <clase descripcion="SAM 13"></clase>
+  <clase descripcion="SAM 13 c/r"></clase>
+  <clase descripcion="SAM 16"></clase>
+  <clase descripcion="SAM 16 c/r"></clase>
+  <clase descripcion="SAM 18"></clase>
+</Clasificaciones>

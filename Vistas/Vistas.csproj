@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CFB76483-28E7-4D79-BAB7-BC35C69FE9BE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Vistas</RootNamespace>
+    <AssemblyName>Vistas</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="ArrayList.cs" />
+    <Compile Include="ControlUser.xaml.cs">
+      <DependentUpon>ControlUser.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnButacas2D.xaml.cs">
+      <DependentUpon>vtnButacas2D.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VtnListadoCliente.xaml.cs">
+      <DependentUpon>VtnListadoCliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VtnListadoPeliculas.xaml.cs">
+      <DependentUpon>VtnListadoPeliculas.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VtnListadoProyecciones.xaml.cs">
+      <DependentUpon>VtnListadoProyecciones.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnListadoUsuarios.xaml.cs">
+      <DependentUpon>vtnListadoUsuarios.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnMasInfo.xaml.cs">
+      <DependentUpon>vtnMasInfo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VtnModificarCliente.xaml.cs">
+      <DependentUpon>VtnModificarCliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnModificarProyeccion.xaml.cs">
+      <DependentUpon>vtnModificarProyeccion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VtnProyeccionActualizar.xaml.cs">
+      <DependentUpon>VtnProyeccionActualizar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnProyecciones.xaml.cs">
+      <DependentUpon>vtnProyecciones.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnButacas3D.xaml.cs">
+      <DependentUpon>vtnButacas3D.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VtnBienvenida.xaml.cs">
+      <DependentUpon>VtnBienvenida.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VtnClienteAlta.xaml.cs">
+      <DependentUpon>VtnClienteAlta.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnNuevaProyeccion.xaml.cs">
+      <DependentUpon>vtnNuevaProyeccion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VtnPeliculaAlta.xaml.cs">
+      <DependentUpon>VtnPeliculaAlta.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VtnPrincipal.xaml.cs">
+      <DependentUpon>VtnPrincipal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnProyeccionesAlmacenadas.xaml.cs">
+      <DependentUpon>vtnProyeccionesAlmacenadas.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VtnTicketVenta.xaml.cs">
+      <DependentUpon>VtnTicketVenta.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VtnUsuariosAlta.xaml.cs">
+      <DependentUpon>VtnUsuariosAlta.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VtnVentaTicket.xaml.cs">
+      <DependentUpon>VtnVentaTicket.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="vtnVistaPreviaUsuarios.xaml.cs">
+      <DependentUpon>vtnVistaPreviaUsuarios.xaml</DependentUpon>
+    </Compile>
+    <Page Include="ControlUser.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnButacas2D.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="VtnListadoCliente.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="VtnListadoPeliculas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="VtnListadoProyecciones.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="vtnListadoUsuarios.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnMasInfo.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="VtnModificarCliente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnModificarProyeccion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="VtnProyeccionActualizar.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="vtnProyecciones.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="MisEstilos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MisPlantillas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnButacas3D.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="VtnBienvenida.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="VtnClienteAlta.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnNuevaProyeccion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="VtnPeliculaAlta.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="VtnPrincipal.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnProyeccionesAlmacenadas.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="VtnTicketVenta.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="VtnUsuariosAlta.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="VtnVentaTicket.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="vtnVistaPreviaUsuarios.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Logs\VtnBienvenidaLog.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>VtnBienvenidaLog.txt</LastGenOutput>
+    </None>
+    <None Include="Logs\VtnClienteAltaLog.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>VtnClienteAltaLog.txt</LastGenOutput>
+    </None>
+    <None Include="Logs\VtnPeliculaAltaLog.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>VtnPeliculaAltaLog.txt</LastGenOutput>
+    </None>
+    <None Include="Logs\VtnPrincipalLog.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>VtnPrincipalLog.txt</LastGenOutput>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+    <None Include="Sonido\Intro.pkf" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MisClases\MisClases.csproj">
+      <Project>{3077880C-A912-4ADC-9C1B-0E3F87DAF2DE}</Project>
+      <Name>MisClases</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\butacaGris.png" />
+    <Resource Include="Images\butacaRoja.png" />
+    <Resource Include="Images\butacaVerde.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\abmbackground - alta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\cinema-wallpaper-social-media-message-background-vector-30355833.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\g4Home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Logs\VtnClienteAltaLog.txt">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VtnClienteAltaLog.tt</DependentUpon>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Logs\VtnBienvenidaLog.txt">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VtnBienvenidaLog.tt</DependentUpon>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Logs\VtnPeliculaAltaLog.txt">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VtnPeliculaAltaLog.tt</DependentUpon>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Logs\VtnPrincipalLog.txt">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VtnPrincipalLog.tt</DependentUpon>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Clasificaciones.xml">
+      <SubType>Designer</SubType>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\login cine.jpg" />
+    <Content Include="Sonido\Intro.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

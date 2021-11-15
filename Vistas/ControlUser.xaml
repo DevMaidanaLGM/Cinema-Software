@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="Vistas.ControlUser"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="538">
+    <Grid Height="381" Name="grid1" Width="412">
+        <Label Content="Usuario" Height="28" HorizontalAlignment="Center" Margin="97,86,235,272" Name="lblUsuario" VerticalAlignment="Center" FlowDirection="LeftToRight" HorizontalContentAlignment="Center" Width="80"/>
+        <Label Content="Contraseña" Height="28" HorizontalAlignment="Center" Margin="97,148,198,204" Name="lblContraseña" VerticalAlignment="Center" Width="117"/>
+        <TextBox Height="28" Margin="203,84,74,269" Name="txtUsuario" Width="135" />
+        <PasswordBox Height="28" HorizontalAlignment="Center" Margin="208,148,74,204" Name="psbContraseña" VerticalAlignment="Center" Width="130" FontFamily="Rockwell" FontSize="16" />
+        <Button Content="Aceptar" Height="46" HorizontalAlignment="Center" Margin="67,248,235,87" Name="btnAceptar" VerticalAlignment="Center" Width="110" Click="btnAceptar_Click" BorderBrush="LightGreen"/>
+        <Button Content="Cancelar" Height="46" HorizontalAlignment="Center" Margin="270,250,42,89" Name="btnCancelar" VerticalAlignment="Center" Width="100" Click="btnCancelar_Click"/>
+    </Grid>
+</UserControl>

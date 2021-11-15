@@ -1,0 +1,6 @@
+﻿
+14/09/2020
+
+06:46
+Cambio en los bordes de los botones Cancelar y Aceptar
+Cambio de imagen en el grid.background

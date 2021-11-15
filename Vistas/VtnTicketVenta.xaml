@@ -1,0 +1,51 @@
+﻿<Window x:Class="Vistas.VtnTicketVenta"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ticket" Height="389" Width="633" Loaded="Window_Loaded">
+    <FixedDocument>
+        <PageContent>
+            <FixedPage>
+                <Grid Name="gridTicket">
+                    <Label Content="CINE APU" Height="28" HorizontalAlignment="Left" Margin="12,12,0,0" Name="label1" VerticalAlignment="Top" />
+                    <Label Content="PARKING" Height="28" HorizontalAlignment="Left" Margin="12,46,0,0" Name="label2" VerticalAlignment="Top" />
+                    <Label Content="Av. Exodo 345" Height="28" HorizontalAlignment="Left" Margin="12,69,0,0" Name="label3" VerticalAlignment="Top" />
+                    <Label Content="CUIT: 30-12345678-6" Height="28" HorizontalAlignment="Left" Margin="103,69,0,0" Name="label4" VerticalAlignment="Top" />
+                    <Label Content="San Pedro de Jujuy" Height="28" HorizontalAlignment="Left" Margin="12,89,0,0" Name="label5" VerticalAlignment="Top" />
+                    <Label Content="TICKET" Height="28" HorizontalAlignment="Left" Margin="337,12,0,0" Name="label6" VerticalAlignment="Top" FontStretch="Normal" />
+                    <Label Content="Número:" Height="28" HorizontalAlignment="Left" Margin="347,41,0,0" Name="label7" VerticalAlignment="Top" />
+                    <Label Content="Fecha y Hora:" Height="28" HorizontalAlignment="Left" Margin="322,77,0,0" Name="label8" VerticalAlignment="Top" />
+        <Label Content="Vendedor: " Height="28" HorizontalAlignment="Left" Margin="403,310,0,0" Name="label19" VerticalAlignment="Top" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="403,221,0,0" Name="textBlock1" Text="{Binding Path=Ticket.cli_dni}" VerticalAlignment="Top" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="409,41,0,0" Name="textBlock2" Text="{Binding Path=Tick_nro}" VerticalAlignment="Top" Width="62" />
+        <GroupBox Header="Cliente" Height="132" HorizontalAlignment="Left" Margin="355,141,0,0" Name="groupBox1" VerticalAlignment="Top" Width="244">
+            <Grid>
+                <Label Content="Apellido: " Height="28" HorizontalAlignment="Left" Margin="20,6,0,0" Name="label16" VerticalAlignment="Top" />
+                <Label Content="Nombre: " Height="28" HorizontalAlignment="Left" Margin="20,30,0,0" Name="label17" VerticalAlignment="Top" Width="60" />
+                <Label Content="DNI: " Height="28" HorizontalAlignment="Left" Margin="20,58,0,0" Name="label18" VerticalAlignment="Top" Width="60" />
+                <TextBlock Height="23" HorizontalAlignment="Left" Margin="90,6,0,0" Name="txt_apellido" Text="{Binding Path=Cliente.Cli_apellido}" VerticalAlignment="Top" Width="85" />
+                <TextBlock Height="23" HorizontalAlignment="Left" Margin="90,35,0,0" Name="txt_nombre" Text="{Binding Path=Cliente.Cli_nombre}" VerticalAlignment="Top" Width="85" />
+                <TextBlock Height="23" HorizontalAlignment="Left" Margin="90,63,0,0" Name="txt_dni" Text="{Binding Path=Cliente.Cli_dni}" VerticalAlignment="Top" Width="85" />
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Proyección" Height="215" HorizontalAlignment="Left" Margin="31,123,0,0" Name="groupBox2" VerticalAlignment="Top" Width="257">
+            <Grid>
+                <Label Content="Película: " Height="28" HorizontalAlignment="Left" Margin="10,6,0,0" Name="label11" VerticalAlignment="Top" />
+                <Label Content="Fecha y hora: " Height="28" HorizontalAlignment="Left" Margin="14,40,0,0" Name="label12" VerticalAlignment="Top" />
+                <Label Content="Ubicación: " Height="28" HorizontalAlignment="Left" Margin="17,81,0,0" Name="label14" VerticalAlignment="Top" />
+                <TextBlock Height="23" HorizontalAlignment="Left" Margin="98,6,0,0" Name="txt_pelicula" Text="{Binding Path=Pelicula.Peli_titulo}" VerticalAlignment="Top" Width="90" />
+                <TextBlock Height="23" HorizontalAlignment="Right" Margin="0,0,57,129" Name="txt_fecha" Text="{Binding Path=Proyecion.Proy_fecha_hora}" VerticalAlignment="Bottom" Width="90" />
+                <TextBlock Height="23" HorizontalAlignment="Left" Margin="98,81,0,0" Name="textBlock5" Text="{Binding Path=But_fila}" VerticalAlignment="Top" Width="90" />
+                <TextBlock Height="23" HorizontalAlignment="Left" Margin="98,124,0,0" Name="textBox1"  Text="{Binding Path=Precio}" VerticalAlignment="Top" Width="90" />
+                <Label Content="Precio:" Height="28" HorizontalAlignment="Left" Margin="22,120,0,0" Name="label9" VerticalAlignment="Top" Width="63" />
+                <Label Content="Sala:" Height="28" HorizontalAlignment="Left" Margin="32,154,0,0" Name="label10" VerticalAlignment="Top" />
+                <TextBlock Height="23" HorizontalAlignment="Left" Margin="98,159,0,0" Name="textBlock3" Text="{Binding Path=Sala.Sala_denominacion}" VerticalAlignment="Top" Width="90" />
+            </Grid>
+        </GroupBox>
+        <TextBlock Height="23" Margin="409,77,112,0" Name="textBlock4" Text="{Binding Path=Tick_fechaVenta}" VerticalAlignment="Top" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="477,315,0,0" Name="txtvendendor" Text="" VerticalAlignment="Top" Width="87" />
+    </Grid>
+            </FixedPage>
+        </PageContent>
+    </FixedDocument>
+    
+</Window>

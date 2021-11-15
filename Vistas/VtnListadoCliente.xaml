@@ -1,0 +1,35 @@
+﻿<Window x:Class="Vistas.VtnListadoCliente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Lista de clientes" Height="445" Width="598"
+        xmlns:DATOS="clr-namespace:MisClases;assembly=MisClases">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="FontFamily" Value="Rockwell"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="Background" Value="#FF7E0404"/>
+            <Setter Property="BorderBrush" Value="White"/>
+            <Setter Property="BorderThickness" Value="5"/>
+            <Setter Property="Foreground" Value="White"/>
+        </Style>
+        <ObjectDataProvider x:Key="ListadoClientes" ObjectType="{x:Type DATOS:TrabajarClientes}" MethodName="TraerCli"></ObjectDataProvider>
+    </Window.Resources>
+    <Grid>
+        <ListView ItemsSource="{Binding Source={StaticResource ResourceKey=ListadoClientes}}" Margin="0,51,0,64" FontFamily="Georgia" FontSize="16">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Dni" DisplayMemberBinding="{Binding Path=cli_dni}" Width="80"></GridViewColumn>
+                    <GridViewColumn Header="Nombre" DisplayMemberBinding="{Binding Path=cli_nombre}" Width="100"></GridViewColumn>
+                    <GridViewColumn Header="Apellido" DisplayMemberBinding="{Binding Path=cli_apellido}" Width="80"></GridViewColumn>
+                    <GridViewColumn Header="Telefono" DisplayMemberBinding="{Binding Path=cli_telefono}" Width="120"></GridViewColumn>
+                    <GridViewColumn Header="Email" DisplayMemberBinding="{Binding Path=cli_email}" Width="150"></GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button Content="Volver" Height="41" HorizontalAlignment="Left" Margin="229,353,0,0" Name="btnVolver" VerticalAlignment="Top" Width="120" Click="btnVolver_Click" />
+        <TextBlock Height="24" HorizontalAlignment="Left" Margin="156,12,0,0" Name="textBlock1" Text="LISTADO DE CLIENTES" VerticalAlignment="Top" Width="257" FontFamily="Rockwell" Foreground="White" FontSize="22"/>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/3.jpg"></ImageBrush>
+        </Grid.Background>
+    </Grid>
+</Window>

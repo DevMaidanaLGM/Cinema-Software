@@ -1,0 +1,32 @@
+﻿<Window x:Class="Vistas.DataGrid"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DataGrid" Height="415" Width="699">
+    <Window.Resources>
+        <ResourceDictionary Source="MisEstilos.xaml"></ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <!--Cabecera-->
+        <DataGrid AutoGenerateColumns="False" Height="263" HorizontalAlignment="Left" Margin="12,43,0,0" Name="dataGrid1" VerticalAlignment="Top" Width="653" FontFamily="Georgia" FontSize="16">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Codigo" Binding="{Binding Path=Proy_codigo}"/>
+                <DataGridTextColumn Header="Fecha" Binding="{Binding Path=Proy_fecha}"/>
+                <DataGridTextColumn Header="Hora" Binding="{Binding Path=Proy_hora}"/>
+                <DataGridTextColumn Header="Sala" Binding="{Binding Path=Proy_nroSala}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <!--Cabecera-->
+        <TextBlock Height="23" HorizontalAlignment="Center" Margin="220,12,230,340" Name="textBlock1" Text="PROYECCIONES" VerticalAlignment="Center" FontSize="22" FontFamily="Rockwell" Foreground="White" />
+        <!--Button-->
+        <Button Content="Volver" Height="43" HorizontalAlignment="Left" Margin="285,321,0,0" Name="btnVolver" VerticalAlignment="Top" Width="107" Click="btnVolver_Click" />
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/3.jpg"></ImageBrush>
+        </Grid.Background>
+    </Grid>
+</Window>

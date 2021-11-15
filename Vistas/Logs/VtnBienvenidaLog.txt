@@ -1,0 +1,12 @@
+﻿
+
+13/9/20 21:50
+
+Cambio del codigo de los roles y el nombre de los objetos Usuarios
+para una lectura más limpia e intuitiva.
+
+Refactorizado de oUsuario1 a usuarioAdmin
+Refactorizado de oUSuario2 a usuarioVendedor
+
+rol_codigo 1 = rol_codigo adm; 
+rol_codigo 2 = rol_codigo ven;

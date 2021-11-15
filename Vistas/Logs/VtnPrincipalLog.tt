@@ -1,0 +1,24 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ output extension=".txt" #>
+
+13/9/2020
+22:40 
+Cambio del background de la grilla
+cambio de imageSource=2.jpg a imageSource=g4Home.png
+
+
+Cambio de la fuente del menu de 14 a 16
+
+23:00
+
+Cambio en la opcion del resize de la grilla, ahora no se puede cambiar.
+Esto es para mantener un diseño agradable y limpio.
+ResizeMode="CanMinimize"
+
+14/9/2020
+
+07:20
+
+Cambio en el nombre de los items ABM Película y ABM Cliente = Añadir Película y Añadir Cliente
+
+Corrección errores de tipeo y ortográficos.

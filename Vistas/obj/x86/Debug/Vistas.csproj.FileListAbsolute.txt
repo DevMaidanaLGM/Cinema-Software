@@ -1,0 +1,791 @@
+c:\users\jose\documents\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe
+c:\users\jose\documents\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.pdb
+c:\users\jose\documents\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.dll
+c:\users\jose\documents\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.pdb
+c:\users\jose\documents\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+c:\users\jose\documents\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.baml
+c:\users\jose\documents\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vntBienvenida.baml
+c:\users\jose\documents\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.g.cs
+c:\users\jose\documents\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vntBienvenida.g.cs
+c:\users\jose\documents\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\App.g.cs
+c:\users\jose\documents\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+c:\users\jose\documents\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.g.resources
+c:\users\jose\documents\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+c:\users\jose\documents\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+c:\users\jose\documents\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+c:\users\jose\documents\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.pdb
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.dll
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.pdb
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.baml
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.g.cs
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\App.g.cs
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.g.resources
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnPrincipal.baml
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnPrincipal.g.cs
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnPeliculaAlta.baml
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnPeliculaAlta.g.cs
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.baml
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.baml
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.g.cs
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.g.cs
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.baml
+F:\visual studio 2010\Projects\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.g.cs
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.dll
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.pdb
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.baml
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.baml
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.baml
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.g.cs
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.g.cs
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.g.cs
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.pdb
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.dll
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.pdb
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.baml
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.baml
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.baml
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.baml
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.baml
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.baml
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.g.cs
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.g.cs
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.g.cs
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.g.cs
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.g.cs
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.g.cs
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\App.g.cs
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.g.resources
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+F:\APU\2020\LPOO II\tps\tp 1\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.pdb
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.dll
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.pdb
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.baml
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisEstilos.baml
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.baml
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.baml
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.baml
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.baml
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.baml
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.g.cs
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.g.cs
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.g.cs
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.g.cs
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.g.cs
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.g.cs
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\App.g.cs
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.g.resources
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+F:\APU\2020\LPOO II\tps\tp 2\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisPlantillas.baml
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.dll
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.pdb
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisEstilos.baml
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisPlantillas.baml
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.baml
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.baml
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.baml
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.g.cs
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.g.cs
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.g.cs
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.baml
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.g.cs
+C:\Users\Ema Frean Rojas\Desktop\LPOOII_GRUPO04 (2)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.pdb
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.dll
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.pdb
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.baml
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.baml
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.baml
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisEstilos.baml
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisPlantillas.baml
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.baml
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.baml
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.baml
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.baml
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.baml
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.g.cs
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.g.cs
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.g.cs
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.g.cs
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.g.cs
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.g.cs
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.g.cs
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.g.cs
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.g.cs
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.baml
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.dll
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.pdb
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisEstilos.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisPlantillas.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04 - Octubre\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04 -(ac 2pm)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04 -(ac 2pm)\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.pdb
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.dll
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.pdb
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.baml
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.baml
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.baml
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.baml
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisEstilos.baml
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisPlantillas.baml
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.baml
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.baml
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.baml
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.baml
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.baml
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.g.cs
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.g.cs
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.g.cs
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.g.cs
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.g.cs
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.g.cs
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.g.cs
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.g.cs
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.g.cs
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.g.cs
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\App.g.cs
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.baml
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.g.resources
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.baml
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.g.cs
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.baml
+F:\APU\2020\LPOO II\tps\tp 3\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.g.cs
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.pdb
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.dll
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.pdb
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.baml
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.baml
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.baml
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.baml
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.baml
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.baml
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisEstilos.baml
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisPlantillas.baml
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.baml
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.baml
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.baml
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.baml
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.baml
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.g.cs
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.g.cs
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.g.cs
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.g.cs
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.g.cs
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.g.cs
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.g.cs
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.g.cs
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.g.cs
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.g.cs
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.g.cs
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.g.cs
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\App.g.cs
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.baml
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.g.resources
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.baml
+F:\APU\2020\LPOO II\tps\tp 4\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.dll
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.pdb
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisEstilos.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisPlantillas.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.baml
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.baml
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.baml
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.baml
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.g.cs
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.g.cs
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.g.cs
+C:\Users\JOSE\Desktop\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.dll
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.pdb
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisEstilos.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisPlantillas.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.baml
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.baml
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.baml
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.baml
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.baml
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.baml
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisEstilos.baml
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisPlantillas.baml
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.baml
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.baml
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.baml
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.baml
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.baml
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.baml
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnVistaPreviaUsuarios.baml
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.g.cs
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.g.cs
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.g.cs
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.g.cs
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.g.cs
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.g.cs
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.g.cs
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.g.cs
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.g.cs
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.g.cs
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.g.cs
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.g.cs
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.g.cs
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnVistaPreviaUsuarios.g.cs
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.dll
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.pdb
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.baml
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Juan\Documents\APU2018\3er año\LPO 2\Proyectos\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.pdb
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.dll
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.pdb
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.baml
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.baml
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.baml
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.baml
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.baml
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.baml
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.baml
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisEstilos.baml
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisPlantillas.baml
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.baml
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.baml
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.baml
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.baml
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.baml
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.baml
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnVistaPreviaUsuarios.baml
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.g.cs
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.g.cs
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.g.cs
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.g.cs
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.g.cs
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.g.cs
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.g.cs
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.g.cs
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.g.cs
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.g.cs
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.g.cs
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.g.cs
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.g.cs
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.g.cs
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnVistaPreviaUsuarios.g.cs
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\App.g.cs
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.baml
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.g.resources
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnTicketVenta.baml
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnTicketVenta.g.cs
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnVentaTicket.baml
+F:\APU\2020\LPOO II\tps\tp 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnVentaTicket.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisEstilos.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisPlantillas.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnTicketVenta.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnVentaTicket.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnVistaPreviaUsuarios.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnAsignacionButacas.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnTicketVenta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnVentaTicket.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnVistaPreviaUsuarios.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.dll
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.pdb
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP 5\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnButacas2D.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisEstilos.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisPlantillas.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnButacas3D.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyeccionesAlmacenadas.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnTicketVenta.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnVentaTicket.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnVistaPreviaUsuarios.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnButacas2D.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnButacas3D.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyeccionesAlmacenadas.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnTicketVenta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnVentaTicket.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnVistaPreviaUsuarios.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_Content.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.dll
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.pdb
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.baml
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Ema Frean Rojas\Desktop\APU 2020 - 2do Cuatrimestre\LPOO2\Trabajos Practicos\TP FINAL\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe.config
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.pdb
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.dll
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.pdb
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnButacas2D.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnMasInfo.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisEstilos.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisPlantillas.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnButacas3D.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyeccionesAlmacenadas.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnTicketVenta.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnVentaTicket.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnVistaPreviaUsuarios.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnButacas2D.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnMasInfo.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnButacas3D.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyeccionesAlmacenadas.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnTicketVenta.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnVentaTicket.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnVistaPreviaUsuarios.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\App.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_Content.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoProyecciones.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnProyeccionActualizar.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoProyecciones.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnProyeccionActualizar.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoCliente.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Guri\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoCliente.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe.config
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.dll
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.pdb
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnButacas2D.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoCliente.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoProyecciones.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnMasInfo.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnProyeccionActualizar.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisEstilos.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisPlantillas.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnButacas3D.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyeccionesAlmacenadas.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnTicketVenta.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnVentaTicket.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnVistaPreviaUsuarios.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnButacas2D.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoCliente.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoProyecciones.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnMasInfo.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnProyeccionActualizar.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnButacas3D.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyeccionesAlmacenadas.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnTicketVenta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnVentaTicket.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnVistaPreviaUsuarios.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\App.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_Content.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.baml
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.g.resources
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Ema Frean Rojas\Desktop\FINAAAAAAAAL\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe.config
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.exe
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.exe
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\bin\Debug\Vistas.pdb
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.dll
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\bin\Debug\MisClases.pdb
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnButacas2D.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoCliente.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoProyecciones.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnMasInfo.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnProyeccionActualizar.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisEstilos.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MisPlantillas.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnButacas3D.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyeccionesAlmacenadas.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnTicketVenta.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnVentaTicket.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnVistaPreviaUsuarios.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\ControlUser.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnButacas2D.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoCliente.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoPeliculas.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnListadoProyecciones.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnListadoUsuarios.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnMasInfo.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnModificarCliente.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnModificarProyeccion.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnProyeccionActualizar.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyecciones.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\MainWindow.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnButacas3D.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnClienteAlta.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnNuevaProyeccion.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPeliculaAlta.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnPrincipal.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnProyeccionesAlmacenadas.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnTicketVenta.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnUsuariosAlta.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnVentaTicket.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\vtnVistaPreviaUsuarios.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\App.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_Content.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.cache
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas_MarkupCompile.lref
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\VtnBienvenida.baml
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.g.resources
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Desarrollo\Workspaces\Visual Studio 2010\Final\LPOOII_GRUPO04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache

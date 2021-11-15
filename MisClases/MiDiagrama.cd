@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MisClases.Usuario">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAABAAAAQAAAAEAACAAAAAAAAABAIAAAQI=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MisClases.Roles">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAAAAAAAAAgAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Roles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MisClases.Cliente">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAhAAACIQAAAgQAAAIEAAACAAAA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MisClases.Pelicula">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAgAIAAIAKAAAACAAAAEAAAABAAE=</HashCode>
+      <FileName>Pelicula.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MisClases.Proyeccion">
+    <Position X="8.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAQAACAgAAAAIAAAAAAAAAAAAAAAAAgQAAAIEAAE=</HashCode>
+      <FileName>Proyeccion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MisClases.Butaca">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAACAAIAAAAgAAAAAAAAAAAAAAAgAAI=</HashCode>
+      <FileName>Butaca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MisClases.Ticket">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAACAAAAAACAAAAAAAgAAAAABAAAIQQAACkAAI=</HashCode>
+      <FileName>Ticket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

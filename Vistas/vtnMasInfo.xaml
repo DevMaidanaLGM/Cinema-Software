@@ -1,0 +1,56 @@
+﻿<Window x:Class="Vistas.vtnMasInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Info de pelicula" Height="670" Width="753" Closed="Window_Closed">
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="MisEstilos.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="MisPlantillas.xaml"></ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+            
+        </ResourceDictionary>
+    </Window.Resources>
+
+
+    <Grid Height="647" Width="742">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+           
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="180"/>
+            <ColumnDefinition />
+
+        </Grid.ColumnDefinitions>
+        
+            <TextBlock Grid.Row="1" Grid.Column="0" Height="35" HorizontalAlignment="Center" Name="textBlock1" Text="Código" VerticalAlignment="Center" FontSize="28" />
+        <TextBlock Grid.Row="1" Grid.Column="1" Height="23" HorizontalAlignment="Center" Name="txtCodigo" Text="PeliCODIGO" VerticalAlignment="Center" Width="150"  Background="Black" TextAlignment="Center" />
+        <TextBlock Grid.Row="2" Grid.Column="0" Height="35" HorizontalAlignment="Center"  Name="textBlock2" Text="Título" VerticalAlignment="Center" FontSize="28" />
+        <TextBlock Grid.Row="2" Grid.Column="1" Height="23" HorizontalAlignment="Center"  Name="txtTitulo" Text="PeliTitulo" VerticalAlignment="Center" Width="150" Background="Black" TextAlignment="Center"/>
+        <TextBlock Grid.Row="3" Grid.Column="0" Height="35" HorizontalAlignment="Center"  Name="textBlock3" Text="Duración" VerticalAlignment="Center" FontSize="28" />
+        <TextBlock Grid.Row="3" Grid.Column="1" Height="23" HorizontalAlignment="Center"  Name="txtDuracion" Text="PeliDuracion" VerticalAlignment="Center" Width="150" Background="Black" TextAlignment="Center"/>
+        <TextBlock Grid.Row="4" Grid.Column="0" Height="35" HorizontalAlignment="Center"  Name="textBlock4" Text="Categoría" VerticalAlignment="Center"  FontSize="28"/>
+        <TextBlock Grid.Row="4" Grid.Column="1" Height="23" HorizontalAlignment="Center"  Name="txtCategoria" Text="PeliCate" VerticalAlignment="Center"  Width="150" Background="Black" TextAlignment="Center"/>
+        <TextBlock Grid.Row="5" Grid.Column="0" Height="35" HorizontalAlignment="Center"  Name="textBlock5" Text="Género" VerticalAlignment="Center" FontSize="28" />
+        <TextBlock Grid.Row="5" Grid.Column="1" Height="23" HorizontalAlignment="Center"  Name="txtGenero" Text="peliGenero" VerticalAlignment="Center"  Width="150" Background="Black" TextAlignment="Center"/>
+        <Border BorderBrush="Black" BorderThickness="2" Grid.RowSpan="3" Height="218" HorizontalAlignment="Left" Margin="25,74,0,0" Name="border2" VerticalAlignment="Top" Width="306" Grid.Column="2" Grid.Row="3" />
+        <Image Grid.Column="2" Name="imgPoster" Stretch="Uniform" Margin="34,63,40,53" Grid.RowSpan="4" />
+        <MediaElement Grid.Column="2" Height="180" HorizontalAlignment="Center" Name="mediaMovie" VerticalAlignment="Center" Width="305"  Stretch="Fill" Margin="26,0,31,36" Grid.Row="4" Grid.RowSpan="2" />
+        <TextBlock Grid.Column="2" Grid.Row="3" Height="23" HorizontalAlignment="Center"  Name="textBlock8" Text="Video" VerticalAlignment="Center" Margin="158,78,158,6" />
+        <TextBlock Grid.Column="2" Height="27" HorizontalAlignment="Center"  Name="textBlock9" Text="Imagen" VerticalAlignment="Center"  Width="63"  />
+        <Border BorderBrush="Black" BorderThickness="2" Grid.Column="2" Grid.RowSpan="4" Height="349" HorizontalAlignment="Left" Margin="26,40,0,0" Name="border1" VerticalAlignment="Top" Width="305" />
+        
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/abmbackground%20-%20alta.png" Stretch="UniformToFill"/>
+        </Grid.Background>
+    </Grid>
+    
+</Window>

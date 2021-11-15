@@ -1,0 +1,41 @@
+﻿<Window x:Class="Vistas.VtnPrincipal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowState="Maximized"
+        WindowStyle="None"
+        Title="Principal" Height="484" Width="1000" ResizeMode="CanMinimize" Loaded="Window_Loaded">
+    <Grid>
+        <Menu Height="29" HorizontalAlignment="Left" Name="menu1" VerticalAlignment="Top" Width="1000" Background="#FFB10909" Foreground="White" FontFamily="Rockwell" FontSize="16">
+            <MenuItem Header="Sistema" Name="menuSistema">
+                <MenuItem Header="Salir" Click="MenuItem_Click_2" Background="#FFB10909" BorderBrush="#FFB10909" />
+                <MenuItem Header="Cerrar Sesión" Click="MenuItem_Click_4" Background="#FFB10909" BorderBrush="#FFB10909"/>
+            </MenuItem>
+            <MenuItem Header="Usuarios" Name="menuUsuarios">
+                <MenuItem Header="Gestión de Usuarios" Click="MenuItem_Click_8" Background="#FFB10909" BorderBrush="#FFB10909"/>
+                <MenuItem Header="Lista de Usuarios" Click="Usuario_Click_listado" Background="#FFB10909" BorderBrush="#FFB10909"/>
+            </MenuItem>
+            <MenuItem Header="Peliculas" Name="menuPeliculas">
+                <MenuItem Header="Gestión de Películas" Click="MenuItem_Click" Background="#FFB10909" BorderBrush="#FFB10909" />
+                <MenuItem Header="Lista de Películas" Background="#FFB10909" BorderBrush="#FFB10909" Click="MenuItem_Click_6" />
+            </MenuItem>
+            <MenuItem Header="Proyecciones" Name="menuProyecciones">
+                <MenuItem Header="Agregar Proyeccion" Click="MenuItem_Click5" Background="#FFB10909" BorderBrush="#FFB10909"/>
+                <MenuItem Header="Lista de Proyecciones" Click="MenuItem_Click6" Background="#FFB10909" BorderBrush="#FFB10909"/>
+                <MenuItem Header="Modificar Proyecciones" Background="#FFB10909" BorderBrush="#FFB10909" Click="MenuItem_Click_5" />
+            </MenuItem>
+            <MenuItem Header="Clientes" Name="menuClientes">
+                <MenuItem Header="Nuevo Cliente" Click="MenuItem_Click_1" Background="#FFB10909" BorderBrush="#FFB10909" />
+                <MenuItem Header="Modificar un Cliente" Click="MenuItem_Click_7" Background="#FFB10909" BorderBrush="#FFB10909"/>
+                <MenuItem Header="Lista de Clientes" Click="MenuItem_Click_10" Background="#FFB10909" BorderBrush="#FFB10909"/>
+            </MenuItem>
+            <MenuItem Header="Tickets" Name="menuTickets">
+                <!--<MenuItem Header="Asignar Butacas" Click="MenuItem_Click_3" Background="#FFB10909" BorderBrush="#FFB10909" />-->
+                <MenuItem Header="Vender Entrada" Background="#FFB10909" BorderBrush="#FFB10909" Click="MenuItem_Click_9" />
+            </MenuItem>
+        </Menu>
+        
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/g4Home.png" Stretch="UniformToFill"/>
+        </Grid.Background>
+    </Grid>
+</Window>

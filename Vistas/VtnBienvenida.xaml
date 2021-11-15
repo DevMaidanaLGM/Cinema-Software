@@ -1,0 +1,18 @@
+﻿<Window x:Class="Vistas.VtnBienvenida"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:UC="clr-namespace:Vistas"
+        Title="Bienvenida" Height="356" Width="538">
+    <Window.Resources>
+       
+        <ResourceDictionary Source="MisEstilos.xaml"></ResourceDictionary>
+        
+
+    </Window.Resources>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush   Stretch="UniformToFill" ImageSource="/Vistas;component/Images/login%20cine.jpg" />
+        </Grid.Background>
+        <UC:ControlUser Loaded="ControlUser_Loaded" />
+    </Grid>
+</Window>

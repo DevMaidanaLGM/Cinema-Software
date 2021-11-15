@@ -1,0 +1,36 @@
+﻿<Window x:Class="Vistas.VtnListadoProyecciones"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:DATOS="clr-namespace:MisClases;assembly=MisClases"
+        Title="Listado de Proyecciones" Height="426" Width="870" Loaded="Window_Loaded">
+    <Window.Resources>
+        <ResourceDictionary >
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="MisEstilos.xaml"></ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+            <ObjectDataProvider x:Key="ListadoProyecciones" ObjectType="{x:Type DATOS:TrabajarProyecciones}" MethodName="listado"></ObjectDataProvider>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <DataGrid x:Name="dataGridUsuarios" CanUserAddRows="True" HorizontalAlignment="Left" Margin="36,54,0,0" VerticalAlignment="Top" Height="210" Width="659">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Path=Proy_codigo}" ClipboardContentBinding="{x:Null}" Header="Cod Proyeccion" Width="100"/>
+                <DataGridTextColumn Binding="{Binding Path=Proy_fecha_hora}" ClipboardContentBinding="{x:Null}" Header="Fecha"  Width="100"/>
+                <DataGridTextColumn Binding="{Binding Path=Proy_nroSala}" ClipboardContentBinding="{x:Null}" Header="Hora"  Width="100"/>
+                <DataGridTextColumn Binding="{Binding Path=Sala.Sala_denominacion}" ClipboardContentBinding="{x:Null}" Header="Sala"  Width="100"/>
+                <DataGridTextColumn Binding="{Binding Path=Pelicula.Peli_titulo}" ClipboardContentBinding="{x:Null}" Header="Pelicula" Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!--Cabecera-->
+        
+        <!--Button-->
+        <Button Content="Volver" Height="43" HorizontalAlignment="Left" Margin="306,303,0,0" Name="btnVolver" VerticalAlignment="Top" Width="107" Click="btnVolver_Click" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="222,12,0,0" Name="textBlock1" Text="LISTADO DE PROYECCIONES" VerticalAlignment="Top" />
+        <Button Content="Modificar" Height="37" HorizontalAlignment="Left" Margin="701,164,0,0" Name="button1" VerticalAlignment="Top" Width="135" Click="button1_Click" />
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/3.jpg"></ImageBrush>
+        </Grid.Background>
+        
+    </Grid>
+</Window>

@@ -16,11 +16,11 @@ Este sistema valida los campos de los registros y todas las gestiones tienen su 
 
 ## Users - Usuarios (It works very similar for clients - Para los clientes funciona muy similar)
 
-![gestion-de-usuarios](./documentation/img/gestion-de-usuarios.png)
+![gestion-de-usuarios](./Documentation/img/gestion-de-usuarios.png)
 
 
 You can create a pdf with the userlist - Puedes crear un pdf con la lista de usuarios
-![lista-de-usuarios](./documentation/img/lista-de-usuarios.png)
+![lista-de-usuarios](./Documentation/img/lista-de-usuarios.png)
 
 
 
@@ -30,18 +30,18 @@ You can create a pdf with the userlist - Puedes crear un pdf con la lista de usu
 You can add a trailer video and an image to the movie you are adding. The video will play automatically to make sure you're adding the correct one.
 Puedes añadir un trailer y una imagen a la película que estes agregando. El video se reproducirá automaticamente para que verifiques que estas agregando el video correcto.
 
-![agregar-pelicula](./documentation/img/agregar-pelicula.png)
+![agregar-pelicula](./Documentation/img/agregar-pelicula.png)
 
 
 
 ## Projections - Proyecciones
 
-![nueva-proyeccion](./documentation/img/nueva-proyeccion.png)
+![nueva-proyeccion](./Documentation/img/nueva-proyeccion.png)
 
 You can search for projections using dates or using movies' name
 Puedes buscar las proyecciones por fechas o por películas
 
-![lista-proyecciones](./documentation/img/lista-proyecciones.png)
+![lista-proyecciones](./Documentation/img/lista-proyecciones.png)
 
 
 ## Selling - Venta
@@ -55,20 +55,20 @@ Eliges una película y la lista de proyecciones solamente mostrará las proyecci
 
 
 
-![venta](./documentation/img/venta.png)
+![venta](./Documentation/img/venta.png)
 
 
 You can choose the sit number, in the next selling this sit will be occupied
 Puedes seleccionar tu asiento, en la próxima venta ese estará ocupado.
 
-![butacas](./documentation/img/butacas.png)
+![butacas](./Documentation/img/butacas.png)
 
 
-![nuevo-cliente](./documentation/img/nuevo-cliente.png)
+![nuevo-cliente](./Documentation/img/nuevo-cliente.png)
 
 After the selling is finished it creates a ticket that can be printed.
 Luego de que finaliza la venta se genera un ticket que se puede imprimir
 
-![ticket](./documentation/img/ticket.png)
+![ticket](./Documentation/img/ticket.png)
 
 
